@@ -137,7 +137,7 @@
 
 
 
-"dianshizhibo": "http://154.219.107.199:8080/IPTV/Live.txt",
+"dianshizhibo": "https://gh-proxy.com/https://raw.githubusercontent.com/qqiu222/IPTV/refs/heads/main/Live.txt",
  
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=#.mkv#rtmp://",
 
