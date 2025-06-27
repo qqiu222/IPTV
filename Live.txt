@@ -61,11 +61,11 @@ TVBS新闻,http://49.213.157.177:50007/li-4gtv-4gtv072/index.m3u8
 中视新闻,http://49.213.157.177:50007/4gtv-4gtv074/index.m3u8
 中天新闻,http://49.213.157.177:50007/li-4gtv-4gtv009/index.m3u8
 环宇新闻,http://49.213.157.177:50007/li-litv-longturn14/index.m3u8
-环宇新闻湾,http://49.213.157.177:50007/li-4gtv-4gtv156/index.m3u8
+环宇新闻台湾,http://49.213.157.177:50007/li-4gtv-4gtv156/index.m3u8
 环宇财经,http://49.213.157.177:50007/li-4gtv-4gtv158/index.m3u8
 半岛国际新闻,http://49.213.157.177:50007/li-litv-ftv10/index.m3u8
 VOA美国之音,http://49.213.157.177:50007/li-litv-ftv03/index.m3u8
-视新闻,http://49.213.157.177:50007/li-4gtv-4gtv051/index.m3u8
+台视新闻,http://49.213.157.177:50007/li-4gtv-4gtv051/index.m3u8
 第1商业,http://49.213.157.177:50007/li-4gtv-4gtv104/index.m3u8
 台视新闻,http://49.213.157.177:50007/4gtv-4gtv051/index.m3u8
 中视新闻,http://49.213.157.177:50007/of-4gtv-4gtv074/index.m3u8
@@ -1051,6 +1051,8 @@ Drama,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.
 Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8
 
 体育频道,#genre#
+CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
+CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 赛事睛彩竞技,http://jilin-02.tosunsoft.com:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 赛事睛彩篮球,http://jilin-02.tosunsoft.com:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 赛事咪咕4k播,http://jilin-02.tosunsoft.com:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
